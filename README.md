@@ -1,2 +1,2 @@
-# GameDev_Projects
-just adding a couple of projects I had been working on after high school
+# Coro Dash
+Flappy Bird/Corona virus themed endless 2d game
